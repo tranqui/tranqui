@@ -4,7 +4,7 @@ I'm a theoretical physicist based in Bristol, UK.
 
 ![tranqui's Stats](https://github-readme-stats.vercel.app/api?username=tranqui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 👨‍🔬 About me
+## 📚 About me
 
 I have 9+ years of experience in academic research in statistical physics. My work is equal parts software development and analytics (of the pen-and-paper variety).
 
