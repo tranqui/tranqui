@@ -1,12 +1,12 @@
 ## Hi there, I'm Josh (he/him) 👋
 
-I'm a theoretical physicist based in Bristol, UK.
+I've been writing code since I was small, but for the last 9+ years I've been getting paid to do it in academia.
 
 ![tranqui's Stats](https://github-readme-stats.vercel.app/api?username=tranqui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 📚 About me
 
-I have 9+ years of experience in academic research in statistical physics. My work is equal parts software development and analytics (of the pen-and-paper variety).
+I've been researching various topics in statistical physics for the last 9+ years. My work is equal parts software development and analytics (of the pen-and-paper variety). I'm based in Bristol but I mostly work remotely with my collaborators elsewhere in the UK and in Germany.
 
 You can read more about my research and find a curated list of my github repositories on my personal website:
 
