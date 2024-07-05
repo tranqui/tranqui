@@ -1,12 +1,12 @@
-## Hi there, I'm Josh 👋
+## Hi there, I'm Josh (he/him) 👋
 
 I'm a theoretical physicist based in Bristol, UK.
 
 ![tranqui's Stats](https://github-readme-stats.vercel.app/api?username=tranqui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## About me
+## 👨‍🔬 About me
 
-I have 9+ years of experience in academic research in statistical physics. My work is equal parts software development and analytical theory (of the pen-and-paper variety).
+I have 9+ years of experience in academic research in statistical physics. My work is equal parts software development and analytics (of the pen-and-paper variety).
 
 You can read more about my research and find a curated list of my github repositories on my personal website:
 
