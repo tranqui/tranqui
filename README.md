@@ -1,6 +1,6 @@
 ## Hi there, I'm Josh (he/him) 👋
 
-I've been writing code since I was small, but for the last 9+ years I've been getting paid to do it in academia.
+I've been writing code since I was small, but for the last 9+ years I've been doing it professionally in academia.
 
 ## 📚 About me
 
